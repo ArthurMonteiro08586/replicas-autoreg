@@ -1,0 +1,9 @@
+# data dir (bank, keys, used list)
+data/
+anon.key
+sb_url.txt
+bank.jsonl
+used_emails.txt
+pool.txt
+*.log
+__pycache__/

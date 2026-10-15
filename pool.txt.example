@@ -1,0 +1,4 @@
+# IMAP-accessible mailboxes for signup confirmation, one per line:
+# email:password
+# Any provider works; set REPLICAS_IMAP_HOST / REPLICAS_IMAP_PORT for non-t-online.
+your-mailbox@example.com:your-imap-password
